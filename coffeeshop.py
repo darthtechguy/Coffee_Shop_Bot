@@ -2,7 +2,8 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+Created by Curtis Barry
+Based on example from Network Chuck Coffee shop bot python tutorial.
 """
 print("Hello, welocme to the coffee shop!") #Initial greeting
 customer_name = input("Can I have your name to get started on your order?\n") #defining the customer name variable
